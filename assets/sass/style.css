@@ -3237,7 +3237,7 @@ p {
   display: inline-block;
 }
 .header__area-menubar-left-logo a img {
-  max-width: 165px;
+  max-width: 130px;
   position: relative;
   z-index: 9999;
 }
@@ -3249,6 +3249,7 @@ p {
   display: inline-block;
   position: relative;
   list-style: none;
+  padding: 0px 10px;
 }
 .header__area-menubar-center-menu ul li:hover > a {
   color: var(--primary-color-1);
